@@ -16,6 +16,8 @@ O sistema permitirá que faça:
 - _JAVAFX_
 - POO
 
+<h2 align="center"> Visualização do Projeto </h2>
+<img width="1919" height="1037" alt="Image" src="https://github.com/user-attachments/assets/37621970-696a-427b-8010-d223996611c9" />
 
 
 
